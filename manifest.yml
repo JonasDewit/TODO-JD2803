@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
+  manifest: sdk-for-nodejs
   name: TODO-JD2803
   host: TODO-JD2803
   disk_quota: 1024M
